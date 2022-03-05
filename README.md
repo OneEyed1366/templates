@@ -1,7 +1,8 @@
 # Templates
 This repository contains some project templates, which I use in most of my experiments or works
 
-* Disclaimer
+*Disclaimer*
+
 My basic stack is:
 1. TypeScript
 2. SCSS
