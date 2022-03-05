@@ -1,5 +1,5 @@
 # Templates
-This repository contains some project templates, which I use in most of my experiments and works
+This repository contains some project templates, which I use in most of my experiments or works
 
 ## Current templates
 ### React
