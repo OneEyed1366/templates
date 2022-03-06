@@ -12,5 +12,7 @@ My basic stack is:
 ## Current templates
 ### React
 1. [Vite --- TypeScript + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-mobx-router-cypress)
+2. [Vite --- Tailwind --- TypeScript + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-tailwind-mobx-router-cypress)
+
 ### Vue3
 1. [Vite --- TypeScript + Pinia + Vue-Router + i18n](https://github.com/OneEyed1366/templates/tree/vue3-vite-typescript-pinia-router-i18n)
