@@ -9,7 +9,7 @@ My basic stack is:
 3. i18n
 4. Cypress
 
-## Current templates
+## JS
 ### React
 1. [Tailwind --- Storybook + TypeScript + React-Router](https://github.com/OneEyed1366/templates/tree/react-tailwind-storybook-router)
 2. [Vite --- TypeScript + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-mobx-router-cypress)
@@ -17,3 +17,8 @@ My basic stack is:
 
 ### Vue3
 1. [Vite --- TypeScript + Pinia + Vue-Router + i18n](https://github.com/OneEyed1366/templates/tree/vue3-vite-typescript-pinia-router-i18n)
+
+## Python
+
+### Django
+1. [Clean, basically configured](https://github.com/OneEyed1366/templates/tree/python-django-clean)
