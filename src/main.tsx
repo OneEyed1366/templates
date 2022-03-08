@@ -2,10 +2,14 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import './styles/index.scss'
 import RouterLayer from './layers/RouterLayer';
+import { Provider } from 'react-redux';
+import { store } from './store';
 
 ReactDOM.render(
   <React.StrictMode>
-    <RouterLayer />
+    <Provider store={store}>
+      <RouterLayer />
+    </Provider>
   </React.StrictMode>,
   document.getElementById('root')
 )
