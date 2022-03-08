@@ -15,7 +15,7 @@ My basic stack is:
 2. [Vite --- TypeScript --- I18Next + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-i18n-mobx-router-cypress)
 3. [Vite --- TypeScript + Redux-Toolkit + RTK-Query + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-redux_toolkit-router-cypress)
 4. [Vite --- TypeScript + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-mobx-router-cypress)
-5. [Vite --- Tailwind --- TypeScript + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-tailwind-mobx-router-cypress)
+5. [Vite --- TypeScript --- Tailwind  + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-tailwind-mobx-router-cypress)
 
 ### Vue3
 1. [Vite --- TypeScript + Pinia + Vue-Router + i18n](https://github.com/OneEyed1366/templates/tree/vue3-vite-typescript-pinia-router-i18n)
