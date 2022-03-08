@@ -11,7 +11,7 @@ My basic stack is:
 
 ## JS
 ### React
-1. [Tailwind --- Storybook + TypeScript + React-Router](https://github.com/OneEyed1366/templates/tree/react-tailwind-storybook-router)
+1. [TypeScript --- Tailwind + Storybook + React-Router](https://github.com/OneEyed1366/templates/tree/react-tailwind-storybook-router)
 2. [Vite --- TypeScript --- I18Next + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-i18n-mobx-router-cypress)
 3. [Vite --- TypeScript + Redux-Toolkit + RTK-Query + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-redux_toolkit-router-cypress)
 4. [Vite --- TypeScript + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-mobx-router-cypress)
