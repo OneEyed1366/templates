@@ -27,7 +27,9 @@
       "@nuxt/types",
       "@types/node",
 //     I18N types
-      "@nuxtjs/i18n"
+      "@nuxtjs/i18n",
+//     Pinia types
+      "@pinia/nuxt"
     ]
   },
   "exclude": [
