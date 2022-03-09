@@ -24,3 +24,4 @@ My basic stack is:
 
 ### Django
 1. [Clean, basically configured](https://github.com/OneEyed1366/templates/tree/python-django-clean)
+2. [WhiteNoise --- I18N + Django-Rest-Framework](https://github.com/OneEyed1366/templates/tree/python-django-i18n-rest)
