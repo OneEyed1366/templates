@@ -24,7 +24,8 @@ My basic stack is:
 
 ### Nuxt
 1. [TypeScript --- Tailwind + VueX + i18n + Jest](https://github.com/OneEyed1366/templates/tree/nuxt-tailwind-vuex-i18n-jest)
-2. [Vite --- Nuxt3-Beta + Pinia](https://github.com/OneEyed1366/templates/tree/vite-nuxt3-pinia)
+2. [TypeScript --- Tailwind + Pinia + i18n + Jest](https://github.com/OneEyed1366/templates/tree/nuxt-tailwind-pinia-i18n)
+3. [Vite --- Nuxt3-Beta + Pinia](https://github.com/OneEyed1366/templates/tree/vite-nuxt3-pinia)
 
 ## Python
 
