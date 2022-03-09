@@ -22,6 +22,9 @@ My basic stack is:
 1. [Vite --- TypeScript + Pinia + Vue-Router + i18n](https://github.com/OneEyed1366/templates/tree/vite-vue3-typescript-pinia-router-i18n)
 2. [Vite --- TypeScript + VueX + Vue-Router + i18n](https://github.com/OneEyed1366/templates/tree/vite-vue3-typescipt-vuex-i18n)
 
+### Nuxt
+1. [TypeScript --- Tailwind + VueX + i18n + Jest](https://github.com/OneEyed1366/templates/tree/nuxt-tailwind-vuex-i18n-jest)
+
 ## Python
 
 ### Django
