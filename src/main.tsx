@@ -4,6 +4,7 @@ import './styles/index.scss'
 import RouterLayer from './layers/RouterLayer';
 import { Provider } from 'react-redux';
 import { store } from './store';
+import '../src/i18n';
 
 ReactDOM.render(
   <React.StrictMode>
