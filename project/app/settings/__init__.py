@@ -8,6 +8,7 @@ from .components.databases import *
 from .components.auth_validations import *
 from .components.localizations import *
 from .components.static_and_media import *
+from .components.cors import *
 from .defaults import *
 # Add "project" to the sys.path
 sys.path.append("..")

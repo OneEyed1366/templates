@@ -7,6 +7,9 @@ MIDDLEWARE = [
     # Localization
     'django.middleware.locale.LocaleMiddleware',
     # END Localization
+    # Django cors
+    'corsheaders.middleware.CorsMiddleware',
+    # END Django cors
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
