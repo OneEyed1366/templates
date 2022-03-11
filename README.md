@@ -36,6 +36,7 @@ My basic stack is:
 ## Python
 
 *Disclaimer*
+
 In the last few years, mostly used Flask & Django as a Backend or Backend + AdminPanel
 
 ### Django
