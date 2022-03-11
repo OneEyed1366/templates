@@ -18,6 +18,11 @@ My basic stack is:
 5. [Vite --- TypeScript + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-mobx-router-cypress)
 6. [Vite --- TypeScript --- Tailwind  + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-tailwind-mobx-router-cypress)
 
+### Next
+1. [TypeScript + Redux-Toolkit (next-redux-wrapper) + Next-i18next](https://github.com/OneEyed1366/templates/tree/next-typescript-redux_toolkit-i18next)
+2. [TypeScript + Redux-Toolkit (next-redux-wrapper) + Next-i18next + Jest + Cypress](https://github.com/OneEyed1366/templates/tree/next-typescript-redux_toolkit-i18next-jest-cypress)
+3. [Storybook --- TypeScript + Redux-Toolkit (next-redux-wrapper) + Next-i18next + Jest + Cypress](https://github.com/OneEyed1366/templates/tree/next-typescript-storybook-redux_toolkit-i18n-jest-cypress)
+
 ### Vue3
 1. [Vite --- TypeScript + Pinia + Vue-Router + i18n](https://github.com/OneEyed1366/templates/tree/vite-vue3-typescript-pinia-router-i18n)
 2. [Vite --- TypeScript + VueX + Vue-Router + i18n](https://github.com/OneEyed1366/templates/tree/vite-vue3-typescipt-vuex-i18n)
