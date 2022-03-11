@@ -1,6 +1,8 @@
 # Templates
 This repository contains some project templates, which I use in most of my experiments or works
 
+## JS
+
 *Disclaimer*
 
 My basic stack is:
@@ -9,7 +11,6 @@ My basic stack is:
 3. i18n
 4. Cypress
 
-## JS
 ### React
 1. [TypeScript --- Tailwind + Storybook + React-Router](https://github.com/OneEyed1366/templates/tree/react-tailwind-storybook-router)
 2. [Vite --- TypeScript --- I18Next + Redux-Toolkit + RTK-Query + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-i18n-redux_toolkit-router-cypress)
@@ -33,6 +34,9 @@ My basic stack is:
 3. [Vite --- Nuxt3-Beta + Pinia](https://github.com/OneEyed1366/templates/tree/vite-nuxt3-pinia)
 
 ## Python
+
+*Disclaimer*
+In the last few years, mostly used Flask & Django as a Backend or Backend + AdminPanel
 
 ### Django
 1. [Clean, basically configured](https://github.com/OneEyed1366/templates/tree/python-django-clean)
