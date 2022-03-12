@@ -1,7 +1,8 @@
 import React from 'react';
-import './App.css';
-import NavigationComponent from '../components/NavigationComponent';
+import '../styles/index.scss';
 import { Outlet } from 'react-router-dom';
+import NavigationComponent from '../components/NavigationComponent';
+import StoriesButton from '../components/StoriesButton';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <NavigationComponent />
       <main>
         <Outlet />
+        <StoriesButton />
       </main>
     </>
   );

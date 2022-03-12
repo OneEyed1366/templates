@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './styles/index.css';
+import './styles/index.scss';
 import reportWebVitals from './reportWebVitals';
 import RouterLayer from './layers/RouterLayer';
 
@@ -8,7 +8,7 @@ ReactDOM.render(
   <React.StrictMode>
     <RouterLayer />
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById('root'),
 );
 
 // If you want to start measuring performance in your app, pass a function

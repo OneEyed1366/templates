@@ -11,7 +11,7 @@ const routes: routeInterface = {
   initial: {
     name:
       'Home',
-    path: initialRoute
+    path: initialRoute,
   },
 };
 
