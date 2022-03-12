@@ -5,7 +5,9 @@ function HomePage(): JSX.Element {
 
   return (
     <article>
-      Home Page + {t('hello')}
+      Home Page +
+      {' '}
+      {t('hello')}
     </article>
   );
 }

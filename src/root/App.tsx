@@ -1,6 +1,6 @@
-import './App.scss'
-import NavbarComponent from '../components/NavbarComponent';
+import './App.scss';
 import { Outlet } from 'react-router-dom';
+import NavbarComponent from '../components/NavbarComponent';
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
         <Outlet />
       </main>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

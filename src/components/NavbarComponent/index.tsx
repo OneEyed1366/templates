@@ -7,15 +7,13 @@ function NavbarComponent(): JSX.Element {
       <nav>
         <ul>
           {
-            Object.values(routes).map(({ path, name }) => {
-              return (
-                <li key={`${path}-navbar-key`}>
-                  <Link to={path}>
-                    {name}
-                  </Link>
-                </li>
-              );
-            })
+            Object.values(routes).map(({ path, name }) => (
+              <li key={`${path}-navbar-key`}>
+                <Link to={path}>
+                  {name}
+                </Link>
+              </li>
+            ))
           }
         </ul>
       </nav>
