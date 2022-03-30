@@ -24,6 +24,7 @@ My basic stack is:
 1. [TypeScript + Redux-Toolkit (next-redux-wrapper) + Next-i18next](https://github.com/OneEyed1366/templates/tree/next-typescript-redux_toolkit-i18next)
 2. [TypeScript + Redux-Toolkit (next-redux-wrapper) + Next-i18next + Jest + Cypress](https://github.com/OneEyed1366/templates/tree/next-typescript-redux_toolkit-i18next-jest-cypress)
 3. [Storybook --- TypeScript + Redux-Toolkit (next-redux-wrapper) + Next-i18next + Jest + Cypress](https://github.com/OneEyed1366/templates/tree/next-typescript-storybook-redux_toolkit-i18n-jest-cypress)
+4. [Styled-Components --- TypeScript + Redux-Toolkit (next-redux-wrapper) + Next-i18next + Jest + Cypress](https://github.com/OneEyed1366/templates/tree/next-typescript-styled_components-redux_toolkit-i18next-jest-cypress)
 
 ### Vue3
 1. [Vite --- TypeScript + Pinia + Vue-Router + i18n](https://github.com/OneEyed1366/templates/tree/vite-vue3-typescript-pinia-router-i18n)
