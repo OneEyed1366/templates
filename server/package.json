@@ -7,7 +7,7 @@
   "license": "UNLICENSED",
   "husky": {
     "hooks": {
-      "pre-commit": "yarn format && yarn lint"
+      "pre-commit": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\""
     }
   },
   "scripts": {
