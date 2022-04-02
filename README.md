@@ -42,5 +42,4 @@ My basic stack is:
 In the last few years, mostly used Flask & Django as a Backend or Backend + AdminPanel
 
 ### Django
-1. [Clean, basically configured](https://github.com/OneEyed1366/templates/tree/python-django-clean)
-2. [WhiteNoise --- I18N + Django-Rest-Framework + Django-Cors-Headers](https://github.com/OneEyed1366/templates/tree/python-django-i18n-rest-cors)
+1. [Django-Rest-Framework + Custom commands](https://github.com/OneEyed1366/templates/tree/drf-custom_commands)
