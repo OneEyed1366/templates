@@ -7,5 +7,5 @@ class Command(BaseCommand):
         """
         Making all migrations
         """
-        call_command("makemessages", "-a")
-        call_command("compilemessages")
+        call_command("makemessages", "-a", "-i", "venv")
+        call_command("compilemessages", "-i", "venv")
