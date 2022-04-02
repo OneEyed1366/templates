@@ -43,3 +43,4 @@ In the last few years, mostly used Flask & Django as a Backend or Backend + Admi
 
 ### Django
 1. [Django-Rest-Framework + Custom commands](https://github.com/OneEyed1366/templates/tree/drf-custom_commands)
+2. [Django-Rest-Framework + Custom commands + i18n](https://github.com/OneEyed1366/templates/tree/drf-custom_commands-i18n)
