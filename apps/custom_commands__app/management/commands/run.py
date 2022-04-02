@@ -8,5 +8,5 @@ class Command(BaseCommand):
         Making all migrations
         """
         call_command("migrations")
-
+        call_command("messages")
         call_command("runserver")
