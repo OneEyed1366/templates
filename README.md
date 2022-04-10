@@ -18,7 +18,8 @@ My basic stack is:
 4. [Vite --- TypeScript + Redux-Toolkit + RTK-Query + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-redux_toolkit-router-cypress)
 5. [Vite --- TypeScript --- I18Next + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-i18n-mobx-router-cypress)
 6. [Vite --- TypeScript + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-mobx-router-cypress)
-7. [Vite --- TypeScript --- Tailwind  + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-tailwind-mobx-router-cypress)
+7. [Vite --- TypeScript --- Tailwind + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-tailwind-mobx-router-cypress)
+8. [Vite --- TypeScript + AtomicDesign + Tailwind + MobX + React-Router + Cypress + Husky + Lint-Staged](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-atomic_design-tailwind-router-cypress)
 
 ### Next
 1. [TypeScript + Redux-Toolkit (next-redux-wrapper) + Next-i18next](https://github.com/OneEyed1366/templates/tree/next-typescript-redux_toolkit-i18next)
