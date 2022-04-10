@@ -12,7 +12,10 @@
     "test:headless": "cypress run-ct"
   },
   "lint-staged": {
-    "*.{js,jsx,ts,tsx}": [
+    "cypress/**/*.{js,ts}": [
+      "prettier --write"
+    ],
+    "src/**/*.{js,jsx,ts,tsx}": [
       "prettier --write",
       "eslint --fix"
     ]
