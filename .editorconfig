@@ -1,7 +1,0 @@
-root = true;
-
-[**]
-insert_final_newline = true;
-end_of_line = lf;
-ij_javascript_force_quote_style = true;
-ij_javascript_force_semicolon_style = true;
