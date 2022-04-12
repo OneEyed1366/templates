@@ -1,10 +1,11 @@
 <script setup lang="ts">
-
+import { TestIcon } from "@/assets/icons";
 </script>
 
 <template>
   <main id="app">
     <h1>Test</h1>
+    <TestIcon />
     <router-view />
   </main>
 </template>

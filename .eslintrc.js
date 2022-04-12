@@ -4,22 +4,25 @@ module.exports = {
     node: true,
     es6: true,
   },
-  parser: 'vue-eslint-parser',
+  parser: "vue-eslint-parser",
+  plugins: ["prettier"],
   extends: [
-    'plugin:@typescript-eslint/recommended',
-    'plugin:vue/vue3-essential',
-    'eslint:recommended',
+    "plugin:@typescript-eslint/recommended",
+    "plugin:vue/vue3-essential",
+    "eslint:recommended",
+    "plugin:prettier-vue/recommended",
+    "prettier",
   ],
   parserOptions: {
     parser: {
-      js: 'espree',
-      ts: '@typescript-eslint/parser',
-      '<template>': 'espree',
+      js: "espree",
+      ts: "@typescript-eslint/parser",
+      "<template>": "espree",
     },
   },
   rules: {
     "no-console": process.env.NODE_ENV === "production" ? "warn" : "off",
     "no-debugger": process.env.NODE_ENV === "production" ? "warn" : "off",
+    "prettier/prettier": ["error"],
   },
 };
-
