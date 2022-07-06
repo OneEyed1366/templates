@@ -13,13 +13,14 @@ My basic stack is:
 
 ### React
 1. [TypeScript --- Tailwind + Storybook + React-Router](https://github.com/OneEyed1366/templates/tree/react-tailwind-storybook-router)
-2. [Vite --- TypeScript --- Storybook + I18Next + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-storybook-i18n-mobx-router-cypress)
-3. [Vite --- TypeScript --- I18Next + Redux-Toolkit + RTK-Query + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-i18n-redux_toolkit-router-cypress)
-4. [Vite --- TypeScript + Redux-Toolkit + RTK-Query + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-redux_toolkit-router-cypress)
-5. [Vite --- TypeScript --- I18Next + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-i18n-mobx-router-cypress)
-6. [Vite --- TypeScript + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-mobx-router-cypress)
-7. [Vite --- TypeScript --- Tailwind + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-tailwind-mobx-router-cypress)
-8. [Vite --- TypeScript + AtomicDesign + Tailwind + MobX + React-Router + Cypress + Husky + Lint-Staged](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-atomic_design-tailwind-router-cypress)
+2. [TypeScript --- Styled-Components + EsLint + Prettier + Husky](https://github.com/OneEyed1366/react-ts-styled_components-husky--template)
+3. [Vite --- TypeScript --- Storybook + I18Next + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-storybook-i18n-mobx-router-cypress)
+4. [Vite --- TypeScript --- I18Next + Redux-Toolkit + RTK-Query + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-i18n-redux_toolkit-router-cypress)
+5. [Vite --- TypeScript + Redux-Toolkit + RTK-Query + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-redux_toolkit-router-cypress)
+6. [Vite --- TypeScript --- I18Next + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-i18n-mobx-router-cypress)
+7. [Vite --- TypeScript + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-mobx-router-cypress)
+8. [Vite --- TypeScript --- Tailwind + MobX + React-Router + Cypress](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-tailwind-mobx-router-cypress)
+9. [Vite --- TypeScript + AtomicDesign + Tailwind + MobX + React-Router + Cypress + Husky + Lint-Staged](https://github.com/OneEyed1366/templates/tree/vite-react-typescript-atomic_design-tailwind-router-cypress)
 
 ### Next
 1. [TypeScript + Redux-Toolkit (next-redux-wrapper) + Next-i18next](https://github.com/OneEyed1366/templates/tree/next-typescript-redux_toolkit-i18next)
