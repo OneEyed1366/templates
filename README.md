@@ -29,14 +29,13 @@ My basic stack is:
 4. [Styled-Components --- TypeScript + Redux-Toolkit (next-redux-wrapper) + Next-i18next + Jest + Cypress](https://github.com/OneEyed1366/templates/tree/next-typescript-styled_components-redux_toolkit-i18next-jest-cypress)
 
 ### Vue3
-1. [Vite --- TypeScript + Pinia + Vue-Router + i18n](https://github.com/OneEyed1366/templates/tree/vite-vue3-typescript-pinia-router-i18n)
-2. [Vite --- TypeScript + VueX + Vue-Router + i18n](https://github.com/OneEyed1366/templates/tree/vite-vue3-typescipt-vuex-i18n)
-3. [Vite --- TypeScript + Pinia + Vue-Router + i18n + ESlint + Prettier + Husky + lint-staged](https://github.com/OneEyed1366/templates/tree/vite-vue3-ts-pinia-router-i18n-eslint-prettier-husky_lint-staged)
+1. [Vite --- TypeScript + Pinia + Vue-Router + i18n](https://github.com/OneEyed1366/vite_vue3-typescript-pinia-router-i18n.git)
+2. [Vite --- TypeScript + VueX + Vue-Router + i18n](https://github.com/OneEyed1366/template_vite-vue3-typescipt-vuex-i18n.git)
+3. [Vite --- TypeScript + Pinia + Vue-Router + i18n + ESlint + Prettier + Husky + lint-staged](https://github.com/OneEyed1366/vite-vue3-ts-pinia-router-i18n-eslint-prettier-husky_lint-staged.git)
 
 ### Nuxt
-1. [TypeScript --- Tailwind + VueX + i18n + Jest](https://github.com/OneEyed1366/templates/tree/nuxt-tailwind-vuex-i18n-jest)
+1. [TypeScript --- Tailwind + VueX + i18n + Jest](https://github.com/OneEyed1366/nuxt-tailwind-vuex-i18n-jest.git)
 2. [TypeScript --- Tailwind + Pinia + i18n + Jest](https://github.com/OneEyed1366/templates/tree/nuxt-tailwind-pinia-i18n)
-3. [Vite --- Nuxt3-Beta + Pinia](https://github.com/OneEyed1366/templates/tree/vite-nuxt3-pinia)
 
 ## Python
 
